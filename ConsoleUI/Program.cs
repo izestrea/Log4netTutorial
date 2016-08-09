@@ -14,6 +14,7 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             Console.WriteLine("Hi!");
+            log.Error("This is my error message");
             Console.ReadLine();
         }
     }
