@@ -4,3 +4,5 @@ D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.pdb
 D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
 D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.exe
 D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\log4net.dll
+D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\log4net.xml
