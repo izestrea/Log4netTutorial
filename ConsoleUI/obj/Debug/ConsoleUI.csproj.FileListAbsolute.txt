@@ -1,0 +1,6 @@
+D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\workspace\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\workspace\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.pdb
